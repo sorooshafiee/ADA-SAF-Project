@@ -1,0 +1,9 @@
+# Private Files #
+03 - Interactive Viz/data/api_key.txt
+
+# ipython files #
+.ipynb_checkpoints/
+
+# exclude log and dot files
+*.log
+*.dot
