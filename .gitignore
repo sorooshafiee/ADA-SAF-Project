@@ -42,6 +42,7 @@ _private/
 _admin/
 .idea/
 .ipynb_checkpoints/
+.vscode/
 
 # Data files #
 ##############
