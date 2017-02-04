@@ -26,6 +26,7 @@ is in polygon defined by that canton or region)
 
 ### Event detection
 Steps were following:
+
 1. Read the tweets
 2. Split data into half month portions(We need to find events in each time frame. Events dont last long)
 3. Choose the portion corresponding to the desired time(The most common topic of tweets in a time frame can belong to the events for 
