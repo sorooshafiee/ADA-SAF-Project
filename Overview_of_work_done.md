@@ -1,7 +1,8 @@
-The aim of the project is
-extract information from 
-understand human mobility patterns
-detect important events
+The aim of the project was:
+
+* extract information from 
+* understand human mobility patterns
+* detect important events.
 
 Main assumptions we considered were:
 
@@ -11,7 +12,7 @@ Main assumptions we considered were:
 
 ### Mobility pattern
 
-Main tools were geopandas and geojson files
+Main tools were geopandas and geojson files.
 
 Steps were following:
 
@@ -28,7 +29,7 @@ is in polygon defined by that canton or region)
 Steps were following:
 
 1. Read the tweets
-2. Split data into half month portions(We need to find events in each time frame. Events dont last long)
+2. Split data into half month portions(We need to find events in each time frame. Events doesn't last long)
 3. Choose the portion corresponding to the desired time(The most common topic of tweets in a time frame can belong to the events for 
 that time)
 4. Find english tweets(there are 30 different languages used in tweets)
