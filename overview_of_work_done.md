@@ -35,9 +35,8 @@ that time)
 6. stem the texts
 7. Find the clusters:
 For clustering we use two algorithms:
-
-  1) Cluster by kmeans
-  2) Cluster by hierarchical clustering (see [1])
+* Cluster by kmeans
+* Cluster by hierarchical clustering (see [1])
 
 The best result found by second clustering model. This model is adaptive
 and no hyper-parameter needs to be set initially.
