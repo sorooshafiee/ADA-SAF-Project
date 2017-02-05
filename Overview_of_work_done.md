@@ -60,5 +60,5 @@ Clusters do not represent events necessarily, for example,
 3. Run Event_detection2.ipynb (This code implements Kmeans)
 4. Run Event_detection.ipynb (This code implements hierarchical clustering)
 
-Note that in order to make code faster, in the last two part, one need to specify the portion of data that he wants.
+Note that in order to make code faster, in the last two part, one needs to specify the portion of data that he wants.
 
