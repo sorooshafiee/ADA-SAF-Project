@@ -54,7 +54,12 @@ Clusters do not represent events necessarily, for example,
 * Flirting messages!!!! my biggest dream is to wake up one day and see your follow tysm for EVERYTHING, follow me pls, ilysm
 * Weather predictions
 
-#### Implementation details:
+#### Implementation details of mobility pattern:
+1. Run Preprocessing.ipynb
+2. Run Mobility_pattern.ipynb
+3. Run visualise_last.ipynb
+
+#### Implementation details of event detection:
 1. Run Preprocessing.ipynb
 2. Run Preprocessing_Event.ipynb
 3. Run Event_detection2.ipynb (This code implements Kmeans)
