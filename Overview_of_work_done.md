@@ -53,3 +53,12 @@ Some of the events found by the algorithm using english tweets:
 Clusters do not represent events necessarily, for example,
 * Flirting messages!!!! my biggest dream is to wake up one day and see your follow tysm for EVERYTHING, follow me pls, ilysm
 * Weather predictions
+
+#### Implementation details:
+1. Run Preprocessing.ipynb
+2. Run Preprocessing_Event.ipynb
+3. Run Event_detection2.ipynb (This code implements Kmeans)
+4. Run Event_detection.ipynb (This code implements hierarchical clustering)
+
+Note that in order to make code faster, in the last two part, one need to specify the portion of data that he wants.
+
